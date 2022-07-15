@@ -102,7 +102,7 @@
     "crayon-svelte": "^6.0.0",
     "electron-is-dev": "^1.2.0",
     "electron-service": "^1.0.10",
-    "svelte": "^3.23.2"
+    "svelte": "^3.49.0"
   },
   "browserslist": [
     "last 1 chrome versions"
